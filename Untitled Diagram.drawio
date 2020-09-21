@@ -1,23 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T02:06:53.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="S5ZI9WVshVBrp7jhhHeH" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T02:12:02.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="URxHDDDQ2OZO6WhkS5Q8" version="13.7.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1239" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1239" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="500" width="1000" height="530" as="geometry" />
+          <mxGeometry x="310" y="490" width="1000" height="560" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="200" width="1000" height="270" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-46" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-55" target="dKdSaXE48SgPbhcamS2K-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="Bussiness Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="500" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="Service Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="720" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="View" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="640" y="200" width="150" height="75" as="geometry" />
@@ -101,13 +95,19 @@
           <mxGeometry x="520" y="600" width="760" height="440" as="geometry" />
         </mxCell>
         <mxCell id="H5xaVmF9Y_K5JrJkrrNT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="495" width="760" height="95" as="geometry" />
+          <mxGeometry x="520" y="500" width="760" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H5xaVmF9Y_K5JrJkrrNT-27" value="Architect / Innovation Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="610" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H5xaVmF9Y_K5JrJkrrNT-28" value="Foundation Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="570" y="850" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H5xaVmF9Y_K5JrJkrrNT-29" value="&lt;span&gt;Bussiness Layer&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H5xaVmF9Y_K5JrJkrrNT-30" value="&lt;span&gt;Service Layer&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="602.5" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
